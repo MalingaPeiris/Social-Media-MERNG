@@ -1,0 +1,24 @@
+{
+  "name": "social-media-merng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalingaPeiris/Social-Media-MERNG.git"
+  },
+  "author": "Malinga Peiris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalingaPeiris/Social-Media-MERNG/issues"
+  },
+  "homepage": "https://github.com/MalingaPeiris/Social-Media-MERNG#readme",
+  "dependencies": {
+    "apollo-server": "^3.5.0",
+    "graphql": "^16.2.0",
+    "mongoose": "^6.1.2"
+  }
+}
